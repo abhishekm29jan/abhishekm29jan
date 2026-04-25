@@ -1,100 +1,104 @@
-### 👋 Hi, I’m Abhishek (@abhishekm29jan)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Abhishek%20Mishra&fontSize=45&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlignY=60&descSize=16" />
+</p>
 
-
-
-I'm an aspiring **Android Developer** passionate about building modern, user-friendly mobile applications using **Kotlin** and **Jetpack Compose**. I enjoy crafting seamless UI experiences and working with technologies like **Firebase** to bring dynamic, real-time features into my apps.
-
-
-
----
-
-
-
-#### 👀 Interests
-
-
-
-- Native Android app development using modern tools and best practices  
-
-- UI/UX design with Jetpack Compose  
-
-- Real-time databases, authentication, and cloud storage using Firebase  
-
-- Clean architecture, MVVM, and modular app design  
-
-- Learning about performance optimization and responsive design  
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Firebase+Enthusiast;Building+Modern+Mobile+Apps&center=true&width=500&height=45">
+</p>
 
 ---
 
+### 👋 Hey there, I’m Abhishek
 
+💡 Passionate **Android Developer** focused on building modern, scalable, and visually appealing mobile applications using **Kotlin** and **Jetpack Compose**.
 
-#### 🌱 Currently Learning
-
-
-
-- Advanced **Kotlin** concepts (Coroutines, Flow, Extension Functions)  
-
-- Android **architecture components** (ViewModel, LiveData, Navigation)  
-
-- Integration with REST APIs and backend services  
-
-- Deployment and publishing on the Play Store  
-
-
+🚀 I love transforming ideas into real-world apps with clean architecture, smooth UI, and powerful backend integrations.
 
 ---
 
+## 🚀 About Me
 
-
-#### 💞️ Looking to Collaborate On
-
-
-
-- Open-source Android projects  
-
-- Kotlin-based utility or productivity apps  
-
-- Firebase-powered mobile applications  
-
-- UI/UX-focused app prototypes  
-
-
+- 📱 Android Developer specializing in **Jetpack Compose**
+- 🎨 Focused on **UI/UX & smooth user experiences**
+- ☁️ Experienced with **Firebase (Auth, Storage, DB)**
+- 🧠 Strong interest in **clean architecture & MVVM**
+- ⚡ Currently building **KrishnaVerse – AI-inspired chatbot app**
 
 ---
 
+## 🛠️ Tech Stack
 
+<p align="center">
 
-#### 📫 How to Reach Me
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,python,git,github" />
 
+</p>
 
+<p align="center">
 
-- 📧 Email: abhishekm29jan@gmail.com  
+<img src="https://img.shields.io/badge/Jetpack%20Compose-UI-blue?logo=android" />
+<img src="https://img.shields.io/badge/MVVM-Architecture-success" />
+<img src="https://img.shields.io/badge/Room-Database-orange" />
+<img src="https://img.shields.io/badge/Retrofit-Networking-yellow" />
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-mishra-38691219a/ 
-
-
-
----
-
-
-
-#### 😄 Pronouns
-
-
-
-He/Him
-
-
+</p>
 
 ---
 
+## 🌱 Currently Learning
 
+- Advanced **Kotlin (Coroutines, Flow)**
+- **Jetpack Compose Deep Dive**
+- REST API Integration & Networking
+- Play Store Deployment & App Optimization
 
-#### ⚡ Fun Fact
+---
 
+## 💼 Projects
 
+### 🪔 KrishnaVerse
+> A Gita-based AI-inspired chatbot delivering emotional guidance using intelligent logic and modern UI.
 
-When I’m not coding, I love exploring new app ideas, designing intuitive UIs, and diving into open-source projects to learn from the community. I'm always excited to experiment with features that make apps both beautiful and useful!
+- 💬 ChatGPT-like interface  
+- 🧠 Emotion-aware responses  
+- 🔐 Firebase Authentication  
+- 🗂️ Chat history with Room DB  
+- 🎨 Premium UI with dark/light mode  
 
+---
+
+## 🤝 Let's Collaborate
+
+- Android Apps (Compose-based)
+- Firebase-powered projects
+- UI/UX focused applications
+- Open-source contributions
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:abhishekm29jan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-mishra-38691219a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+✨ I enjoy designing beautiful UIs as much as writing logic.  
+🚀 Always experimenting with new ideas to make apps smarter and more meaningful.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF9933&height=120&section=footer"/>
+</p>
