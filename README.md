@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 📱 Android Developer specializing in **Jetpack Compose**
 - 🎨 Focused on **UI/UX & smooth user experiences**
@@ -26,11 +26,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,python,git,github" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,c,python,firebase,mysql,androidstudio,vscode,git,github" />
 
 </p>
 
@@ -40,30 +40,18 @@
 <img src="https://img.shields.io/badge/MVVM-Architecture-success" />
 <img src="https://img.shields.io/badge/Room-Database-orange" />
 <img src="https://img.shields.io/badge/Retrofit-Networking-yellow" />
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black" />
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Experience In: 
 
 - Advanced **Kotlin (Coroutines, Flow)**
 - **Jetpack Compose Deep Dive**
 - REST API Integration & Networking
 - Play Store Deployment & App Optimization
-
----
-
-## 💼 Projects
-
-### 🪔 KrishnaVerse
-> A Gita-based AI-inspired chatbot delivering emotional guidance using intelligent logic and modern UI.
-
-- 💬 ChatGPT-like interface  
-- 🧠 Emotion-aware responses  
-- 🔐 Firebase Authentication  
-- 🗂️ Chat history with Room DB  
-- 🎨 Premium UI with dark/light mode  
 
 ---
 
@@ -98,6 +86,10 @@
 🚀 Always experimenting with new ideas to make apps smarter and more meaningful.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF9933&height=120&section=footer"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF9933&height=120&section=footer"/>
